@@ -2,6 +2,9 @@
 title: UPATIK
 timezone: UTC
 collections:
+  news:
+    title: Berita
+    output: true
   posts:
     title: Posts
     output: true
